@@ -6,7 +6,7 @@
 ################################################################################
 
 rm(list=ls())
-setwd("~/Desktop/ECO 4006F/Macro Project ")
+setwd("~/")
 library(stargazer) # For tables
 library(lmtest) # DW test
 library(tseries) # adf tests
